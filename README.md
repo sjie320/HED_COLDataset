@@ -3,6 +3,6 @@
 
 中文谐音冒犯语言检测数据集
 
-The first largescale and systematic homophonic dataset for Chinese offensive language detection.
+The first largescale and systematic homophonic dataset for Chinese offensive language detection.
 
 Our dataset is currently being organized and will be released soon.
